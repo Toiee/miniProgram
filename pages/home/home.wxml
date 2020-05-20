@@ -1,3 +1,5 @@
 <!--Pages/home/home.wxml-->
 <text class="title">Hello World</text>
 <button size="mini">按钮</button>
+<text>222</text>
+<view>dddd</view>
